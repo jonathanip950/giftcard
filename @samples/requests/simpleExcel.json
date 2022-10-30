@@ -1,0 +1,101 @@
+{
+  "fileName": "testing",
+  "sheets": [
+    {
+      "sheetName": "Settlement",
+      "index": 0,
+      "columns": {
+        "name": {
+          "displayName": "Name",
+          "index": 0
+        },
+        "age": {
+          "displayName": "Age",
+          "index": 1
+        },
+        "sex": {
+          "displayName": "Sex",
+          "index": 2
+        },
+        "height": {
+          "displayName": "Height",
+          "index": 3
+        }
+      },
+      "rows": [
+        {
+          "name": {
+            "value": "小明",
+            "isError": false
+          },
+          "age": {
+            "value": "10",
+            "isError": false
+          },
+          "sex": {
+            "value": "Male",
+            "isError": false
+          },
+          "height": {
+            "value": "120cm",
+            "isError": false
+          }
+        },
+        {
+          "name": {
+            "value": "Amuro",
+            "isError": false
+          },
+          "age": {
+            "value": "40",
+            "isError": false
+          },
+          "sex": {
+            "value": "Female",
+            "isError": false
+          },
+          "height": {
+            "value": "168cm",
+            "isError": false
+          }
+        },
+        {
+          "name": {
+            "value": "Trump",
+            "isError": false
+          },
+          "age": {
+            "value": "74",
+            "isError": false
+          },
+          "sex": {
+            "value": "Male",
+            "isError": false
+          },
+          "height": {
+            "value": "192cm",
+            "isError": false
+          }
+        },
+        {
+          "name": {
+            "value": "Alien",
+            "isError": false
+          },
+          "age": {
+            "value": "???",
+            "isError": true
+          },
+          "sex": {
+            "value": "Male",
+            "isError": false
+          },
+          "height": {
+            "value": "130cm",
+            "isError": false
+          }
+        }
+      ]
+    }
+  ]
+}
